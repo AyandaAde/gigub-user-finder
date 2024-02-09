@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "lib": ["DOM"],
+    "jsx": "react",
+    "esModuleInterop": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"]
+    }
+  }
+}
